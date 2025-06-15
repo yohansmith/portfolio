@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/img/me.jpg" alt="Yohan Smith" width="150" style="border-radius: 50%;">
+</p>
+
 # Data Science Undergraduate | Tech Enthusiast | Passionate Coder
 ## Turning Data into Impact with Code and Curiosity
 
