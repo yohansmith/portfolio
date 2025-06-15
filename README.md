@@ -1,7 +1,8 @@
 # Data Science Undergraduate | Tech Enthusiast | Passionate Coder
 ## Turning Data into Impact with Code and Curiosity
 
-#### Technical Skills: Python, SQL, C#, Java
+#### Proficient in coding with: Python, SQL, C#, Java
+#### Other skills: Researching, Web Developing, Prototyping, UI Designing, Graphic Designing, Problem-solving
 
 ### Education
 - Diploma in Information Communication Technology at Esoft Metro Campus (2021- 2022)
@@ -17,6 +18,15 @@ Skills based on the role;
 - Communication and networking skills
 - Problem-solving
 
-### Projets
-Library Management System
-- 
+## Projects
+### Projects done in assignments/courseworks within university (LMU & ESU)
+#### Library Management System
+#### Payroll System (Grifindo Toys)
+#### Web Application with Database Management (Quiet Attic Films)
+#### Web-based System Prototype (Auto Cars - Taxi Reservation Service)
+#### Web-based System Prototype (Travel Buddies)
+#### UI Designing for Cloud-based Video Platform (E-Video Cloud)
+#### Pathfinding and Search Algorithm Implication in a Grid Environment
+#### Healthcare Recommendation System with Federated Learning
+
+### Personal I've built for fun and learning
